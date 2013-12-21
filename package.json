@@ -1,0 +1,26 @@
+{
+  "name": "examples",
+  "version": "0.0.0",
+  "description": "code examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bennekrouf/examples.git"
+  },
+  "keywords": [
+    "examples",
+    "node"
+  ],
+  "author": "bennek",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bennekrouf/examples/issues"
+  },
+  "devDependencies": {
+    "express": "~3.4.7",
+    "socket.io": "~0.9.16"
+  }
+}
